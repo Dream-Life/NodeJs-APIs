@@ -1,0 +1,1 @@
+// 转换成 namespace-prefixed 路径。只在 windows 有效，其他系统直接返回，相关信息: namesapces
